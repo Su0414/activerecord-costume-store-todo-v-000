@@ -22,4 +22,4 @@ class CreateCostumes < ActiveRecord::Migration
   end
 
 
-end 
+end
